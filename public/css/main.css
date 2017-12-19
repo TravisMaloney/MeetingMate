@@ -1,0 +1,124 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+nav {
+    width: 100%;
+    height: 80px;
+}
+
+.navImgContainer {
+    float: left;
+    margin-left: 75px;
+    margin-top: 18px;
+    margin-right: 30px;
+}
+
+.navImg {
+    height: 40px;
+    width: auto;
+}
+
+.navLinkContainer {
+    display: inline-block;
+    height: 100%;
+    margin-top: 13px;
+}
+
+.navLinks {
+    display: inline-block;
+    list-style: none;
+    font-weight: bold;
+}
+
+.navAction {
+    float: right;
+    list-style: none;
+    margin-right: 75px;
+    margin-top: 25px;
+}
+
+.navLinks li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.navAction li {
+    display: inline-block;
+}
+
+input {
+    width: 200px;
+    height: 20px;
+    border: 3px #5f7e64 solid;
+    border-radius: 8px 0px 0px 8px;
+    font-size: 13px;
+    padding: 0px 8px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.searchButton {
+    height: 26px;
+    padding: 0px 7px;
+    border: none;
+    border-radius: 0px 8px 8px 0px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #5f7e64;
+    font-family: 'Raleway', sans-serif;
+}
+
+.accButton {
+    border: 2px #5f7e64 solid;
+    border-radius: 15px;
+    padding: 2px 18px;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #d7895f;
+    color: #FFF;
+    line-height: 20px;
+}
+
+main {
+    background-color: #5f7e64;
+    height: 100%;
+    width: 100%;
+}
+
+.heroImg {
+    height: 50%;
+    width: 50%;
+}
+
+.hero {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.googlePlay {
+    height: auto;
+    width: 20%;
+    float: left;
+    margin-left: 27%;
+    margin-top: 20px;
+}
+
+.apple {
+    float: right;
+    height: auto;
+    width: 15%;
+    margin-top: 40px;
+    margin-right: 28%;
+}
+
+main {
+    color: #FFF;
+}
